@@ -1,0 +1,38 @@
+#top > div{
+    height: 80px;
+    line-height: 150%;
+    float: left;
+}
+
+#top  > div > span {
+	font-wieght:bold;
+    line-height: 150%;
+    font-size:300%;
+}
+
+#ng {
+	border-right: 1px solid #ccc;
+	width: 180px;
+	font-size: 200%;
+    padding: 10px;
+}
+
+#bcg{
+    border-right: 1px solid #ccc;
+    width: 180px;
+    padding: 10px;
+
+}
+
+#vg{
+    border-right: 1px solid #ccc;
+    width: 180px;
+    padding: 10px;
+
+}
+
+#dg{
+    padding: 10px;	
+
+
+	}
